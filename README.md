@@ -1,11 +1,13 @@
-Mathematics project of two students of IMAC (second year).
+Trifocal Tensor
+==========
 
-Initiation to computer vision and projective geometry.
-Trifocal Tensor.
+Student project - realized in 2013 at IMAC, a school of engineering in computer science.
 
-Members of the project :
-	Arthur Tourneret
-	Clément Champetier
+Contributors :
+     - Arthur Tourneret
+     - Clément Champetier
+
+The project is an initiation to computer vision and projective geometry.
 
 Requirement :
   - SDL : sudo apt-get install libsdl1.2-dev
