@@ -4,8 +4,8 @@ Trifocal Tensor
 Student project - realized in 2013 at IMAC, a school of engineering in computer science.
 
 Contributors :
-     - Arthur Tourneret
-     - Clément Champetier
+  - Arthur Tourneret
+  - Clément Champetier
 
 The project is an initiation to computer vision and projective geometry.
 
@@ -17,8 +17,8 @@ Requirements :
 	* rename "eigen-eigen-5097c01bcdc4/" to "eigen/"
 
 Run :
-  make
-  ./bin/tensor
+  - make
+  - ./bin/tensor
 
 
 
